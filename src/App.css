@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background-color: #FEEFF6;
+  color: #5C5D89;
+
+  font-family: 'Courier New', Courier, monospace;
+}
